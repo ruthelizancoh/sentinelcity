@@ -13,6 +13,8 @@ print()
 print("----- SECURITY REPORT -----")
 print(f"User: {username}")
 
+# Both conditions must be true together for HIGH risk - this is an AND, not an OR
+
 if failed_attempts >= 5 and vpn_enabled == "no":
     print("Risk Level: HIGH")
     print("Recommendation: Lock the account immediately.")
