@@ -54,3 +54,4 @@ a real rule requires `and` versus `or` logic.*
 
 ## About Me
 
+An aspiring software engineer focused to archieve a safe and comfortable digital environment.Enjoy.
