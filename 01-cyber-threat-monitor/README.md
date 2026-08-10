@@ -24,7 +24,6 @@ prints a recommended action.
 
 ​```
 python threat_monitor.py
-
 ​```
 
 Answer each prompt when asked.
