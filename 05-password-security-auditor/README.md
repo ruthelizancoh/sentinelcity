@@ -28,7 +28,7 @@ python password_auditor.py
 ## Important Note
 
 This project is a simplified simulation for practicing conditional
-logic. It is **not** an example of real, secure password handling —
+logic. It is **not** an example of real, secure password handling :
 real systems never display or compare raw passwords the way this
 simple learning exercise does, and use proper encryption, which is
 well beyond this stage of the course.
