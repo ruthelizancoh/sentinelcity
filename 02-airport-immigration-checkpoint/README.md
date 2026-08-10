@@ -23,7 +23,6 @@ decides whether entry is approved or denied.
 
 ​```
 python immigration_checkpoint.py
-
 ​```
 
 ## Concepts Practiced
