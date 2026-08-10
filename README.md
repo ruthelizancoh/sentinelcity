@@ -1,13 +1,13 @@
 # SentinelCity
 
 A portfolio of five small, complete Python programs, each simulating a
-real decision-making system used by a real kind of organization — a
+real decision-making system used by a real kind of organization : a
 cybersecurity team, an airport, a bank, an antivirus company, and an
 account security team.
 
 Every project in this repository uses only comparison operators
 (`==`, `!=`, `>`, `<`, `>=`, `<=`), `if` / `elif` / `else` chains, and
-boolean logic (`and`, `or`, `not`) — no loops, functions, or data
+boolean logic (`and`, `or`, `not`) : no loops, functions, or data
 structures yet. Each project deliberately practices identifying whether
 a real-world rule is genuinely an `and` situation (both facts must be
 true together) or an `or` situation (either fact alone is enough).
@@ -32,12 +32,10 @@ complete, runnable Python file.
 2. Open a terminal inside this repository.
 3. Move into whichever project folder you want to run, for example:
 
-​```
-
+​```bash
 cd 01-cyber-threat-monitor
 python threat_monitor.py
-
-​```
+```
 
 4. Answer each prompt when asked.
 
@@ -54,4 +52,4 @@ a real rule requires `and` versus `or` logic.*
 
 ## About Me
 
-An aspiring software engineer focused to archieve a safe and comfortable digital environment.Enjoy.
+An aspiring software engineer focused to achieve a safe and comfortable digital environment.Enjoy.
