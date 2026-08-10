@@ -21,9 +21,8 @@ whether they match, and if they do, whether the password is at least
 
 ## How to Run It
 
-​```
+​​```
 python password_auditor.py
-
 ​```
 
 ## Important Note
