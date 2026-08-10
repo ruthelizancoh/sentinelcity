@@ -32,10 +32,13 @@ complete, runnable Python file.
 2. Open a terminal inside this repository.
 3. Move into whichever project folder you want to run, for example:
 
-​```bash
+​​```
 cd 01-cyber-threat-monitor
+​```
+
+​```
 python threat_monitor.py
-```
+​```
 
 4. Answer each prompt when asked.
 
