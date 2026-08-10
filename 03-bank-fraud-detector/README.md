@@ -21,10 +21,8 @@ classifies the transaction as HIGH risk, MEDIUM risk, or SAFE.
 
 ## How to Run It
 
-​```
-
+​​```
 python fraud_detector.py
-
 ​```
 
 ## Concepts Practiced
